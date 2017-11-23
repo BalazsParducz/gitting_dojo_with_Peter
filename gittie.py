@@ -1,8 +1,10 @@
 def add():
     print("I am here to add shit.")
 
+
 def introduce():
-    print('Hello, I\'m Gittie!') 
+    input('Hi, what\'s your name?')
+    print('Hello, I\'m Gittie!')
 
 
 def joke():
